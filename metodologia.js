@@ -1,1 +1,1 @@
-console.log()
+console.log("esto lo hago pa diveltime")
